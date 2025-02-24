@@ -1,3 +1,3 @@
 # firstrepository
 this is my first repo
-autor abhishek gehlot
+author abhishek gehlot
